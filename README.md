@@ -9,3 +9,4 @@ The code I wrote is covered by the license in the LICENSE file, all pieces of co
 I wrote this using the arm-none-eabi-gcc toolchain, but an older version. On the most recent toolchain version the code crashes with a hardfault. I have not been willing to set aside the time to find out why, so I just keep compiling using the old tool chain version. (Which I currently don't know, because the computer power supply of that PC has died and I did not have to recompile for months now, as it runs stable).
 
 This is also probably not the very latest version, since it resides on the PC hard disk which has died, but I will update as soon as I feel inclined to get that PC running again. I published this because the code has been working well for years now, and I hope some other people might benefit from it.
+![Screenshot (228)](https://github.com/Rayhan180/Data-logger-for-solar-system-using-stm32f401re-Microcontroller/assets/136218406/03091634-f655-4ce8-a5f6-28dec9e02e81)
